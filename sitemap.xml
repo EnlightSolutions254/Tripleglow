@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <url>
+    <loc>https://tripleglowhousekeeping.co.ke/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://tripleglowhousekeeping.co.ke/assets/images/home/hero-team.webp</image:loc>
+      <image:title>Tripleglow Housekeeping Services team on a job site in Nakuru</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://tripleglowhousekeeping.co.ke/about.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://tripleglowhousekeeping.co.ke/assets/images/about/about-team.webp</image:loc>
+      <image:title>Tripleglow Housekeeping Services staff portrait</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://tripleglowhousekeeping.co.ke/services.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://tripleglowhousekeeping.co.ke/gallery.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tripleglowhousekeeping.co.ke/assets/images/gallery/residential-deep-clean-milimani-after.webp</image:loc>
+      <image:title>Residential deep clean — Milimani, Nakuru</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://tripleglowhousekeeping.co.ke/assets/images/gallery/commercial-clean-cbd-after.webp</image:loc>
+      <image:title>Commercial site clean — Nakuru CBD</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://tripleglowhousekeeping.co.ke/assets/images/gallery/office-cleaning-kenyatta-ave-after.webp</image:loc>
+      <image:title>Office cleaning — Kenyatta Avenue, Nakuru</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://tripleglowhousekeeping.co.ke/assets/images/gallery/carpet-clean-section58-after.webp</image:loc>
+      <image:title>Carpet extraction clean — Section 58, Nakuru</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://tripleglowhousekeeping.co.ke/assets/images/gallery/deep-clean-move-in-after.webp</image:loc>
+      <image:title>Deep clean — move-in ready apartment, Nakuru</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://tripleglowhousekeeping.co.ke/assets/images/gallery/kitchen-deep-clean-racecourse-after.webp</image:loc>
+      <image:title>Kitchen deep clean — Racecourse, Nakuru</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://tripleglowhousekeeping.co.ke/assets/images/gallery/post-construction-clean-after.webp</image:loc>
+      <image:title>Post-construction clean — new build, Nakuru</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://tripleglowhousekeeping.co.ke/assets/images/gallery/washroom-sanitisation-office-after.webp</image:loc>
+      <image:title>Washroom sanitisation — corporate office, Nakuru</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://tripleglowhousekeeping.co.ke/contact.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+</urlset>
