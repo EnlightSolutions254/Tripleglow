@@ -186,9 +186,13 @@ section{ padding: 80px 0; }
   flex: none;
 }
 .brand-mark img{ width: 100%; height: 100%; object-fit: cover; display: block; }
-.brand-name{ display: flex; flex-direction: column; line-height: 1.1; }
-.brand-name strong{ font-size: 1.05rem; font-weight: 700; color: var(--ink); }
-.brand-name span{ font-size: 0.66rem; letter-spacing: 0.08em; color: var(--orange); font-weight: 600; text-transform: uppercase; }
+.brand-name{ display: flex; flex-direction: column; line-height: 1.15; }
+.brand-name strong{ font-size: 0.98rem; font-weight: 700; color: var(--blue); text-transform: uppercase; letter-spacing: 0.02em; }
+.brand-name .brand-services{ font-size: 0.98rem; font-weight: 700; color: var(--orange); text-transform: uppercase; letter-spacing: 0.02em; }
+.brand-name .brand-slogan{
+  font-family: var(--font-body); font-style: italic; font-weight: 500;
+  font-size: 0.66rem; letter-spacing: 0.02em; color: var(--blue); text-transform: none; margin-top: 1px;
+}
 
 .nav-links{ display: flex; align-items: center; gap: 34px; }
 .nav-links a{
@@ -265,7 +269,7 @@ body.nav-open::after{
 
 /* Very small phones: a touch more breathing room in the header row */
 @media (max-width: 380px){
-  .brand-name span{ display: none; } /* drop the "Housekeeping Services" subline, keep "Tripleglow" */
+  .brand-name .brand-slogan{ display: none; } /* drop the "keeping your space glamorous" slogan on very small phones */
 }
 
 /* ---------- Hero ---------- */
