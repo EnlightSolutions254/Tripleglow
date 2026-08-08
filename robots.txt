@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tripleglowhousekeeping.co.ke/sitemap.xml
+Sitemap: https://tripleglow.co.ke/sitemap.xml
