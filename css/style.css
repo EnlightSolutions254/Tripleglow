@@ -252,6 +252,7 @@ section{ padding: 80px 0; }
   transition: opacity .45s var(--ease-out-expo) .38s, transform .45s var(--ease-out-expo) .38s;
 }
 .mobile-panel.open .btn{ opacity: 1; transform: translateX(0); }
+.mobile-panel .btn + .btn{ margin-top: 14px; }
 
 /* Dimmed, blurred backdrop behind the drawer (toggled via body.nav-open in js/main.js) */
 body.nav-open::after{
