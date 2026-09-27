@@ -283,10 +283,14 @@ body.nav-open::after{
 .hero-bg{ position: absolute; inset: 0; z-index: 0; overflow: hidden; }
 .hero-bg-slide{
   position: absolute; inset: 0;
+  background-image: var(--bg-mobile);
   background-size: cover; background-position: center;
   opacity: 0; transform: scale(1);
   animation: hero-kenburns 27.5s infinite;
   will-change: opacity, transform;
+}
+@media (min-width: 901px){
+  .hero-bg-slide{ background-image: var(--bg-desktop); }
 }
 .hero-bg-slide:nth-child(1){ animation-delay: 0s; }
 .hero-bg-slide:nth-child(2){ animation-delay: -2.75s; }
