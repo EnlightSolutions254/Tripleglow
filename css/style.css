@@ -248,6 +248,7 @@ section{ padding: 80px 0; }
 .mobile-panel a:nth-child(5){ transition-delay: .32s; }
 .mobile-panel a.active{ color: var(--blue); }
 .mobile-panel .btn{
+  display: flex; align-items: center; justify-content: center; text-align: center;
   margin-top: 24px; opacity: 0; transform: translateX(28px);
   transition: opacity .45s var(--ease-out-expo) .38s, transform .45s var(--ease-out-expo) .38s;
 }
